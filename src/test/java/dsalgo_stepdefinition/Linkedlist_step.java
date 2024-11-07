@@ -143,7 +143,7 @@ public class Linkedlist_step {
 	@Then("The user is able to see the output inside the console.")
 	public void the_user_is_able_to_see_the_output_inside_the_console() throws InvalidFormatException, IOException {
 	    
-		Assert.assertEquals(linkedList.getOutput("code", 0),linkedList.getScriptOutput() );
+		Assert.assertEquals(linkedList.getOutput("dsalgocode", 0),linkedList.getScriptOutput() );
 	   
 	}
 	@When("The user writes the invalid python code from {string} and {int} and clicks the Run button")

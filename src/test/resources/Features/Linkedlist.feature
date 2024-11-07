@@ -57,7 +57,7 @@ When The user writes the valid python code from "<Sheetname>" and <RowNumber> an
 Then The user is able to see the output inside the console.
 Examples: 
       | Sheetname  | RowNumber |
-      | code |         0 |
+      | dsalgocode |         0 |
 
 @Linkedlist_06
 Scenario Outline: The user is able to see error message when run with invalid code in "Introduction" TryEditor page
@@ -66,7 +66,7 @@ When The user writes the invalid python code from "<Sheetname>" and <RowNumber> 
 Then The user should see an error message in alert window
 Examples: 
       | Sheetname  | RowNumber |
-      | code |         1 |
+      | dsalgocode |         1 |
 
 
 @Linkedlist_7

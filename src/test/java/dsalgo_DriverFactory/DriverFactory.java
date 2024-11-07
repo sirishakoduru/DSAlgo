@@ -45,7 +45,7 @@ public class DriverFactory {
 	public static void quitDriver() {
 		System.out.println("Quitting WebDriver");
 		if (driver != null) {
-//			driver.quit();
+ 		    driver.quit();
 			driver = null;
 		}
 	}

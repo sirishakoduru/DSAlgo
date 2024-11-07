@@ -1,8 +1,11 @@
 package dsalgo_hooks;
 
+import java.io.File;
+import java.io.IOException;
 import java.time.Duration;
 import java.util.Properties;
 
+import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -40,6 +43,13 @@ public class Hooks {
 		if(scenario.isFailed()) {
 			byte[] screenShot = ((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
 			scenario.attach(screenShot, "image/png", scenarioName);
+			
+			 File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+		        try {
+		            FileUtils.copyFile(screenshot, new File("target/screenshots/" + scenario.getName() + ".png"));
+		        } catch (IOException e) {
+		            e.printStackTrace();
+		        }
 		}
 		
 		
@@ -47,8 +57,18 @@ public class Hooks {
 		
 		Thread.sleep(3000);
 		driver.quit();
-
+//
 	}
+//    @AfterAll
+//	public static void tearDown() {
+//		// Quit WebDriver after the last scenario
+//		DriverFactory.quitDriver();
+//	}
+
+//	public static void setBrowser(String browser) {
+//		Hooks.browser = browser;
+//		
+//	}
 
   
 }
