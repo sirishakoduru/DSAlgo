@@ -957,3 +957,576 @@
 [ERROR]2024-11-0513:11:49.985[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
 [ERROR]2024-11-0513:11:56.050[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
 [ERROR]2024-11-0513:11:01.613[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0617:11:17.746[main]dsalgo_Utilities.LoggerLoad1)-portal URL: https://dsportalapp.herokuapp.com/
+[INFO ]2024-11-0617:11:18.213[main]dsalgo_Utilities.LoggerLoad1)-user can see message :Preparing for the Interviews You are at the right place
+[ERROR]2024-11-0617:11:18.215[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0617:11:23.755[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***NumpyNinja****
+[ERROR]2024-11-0617:11:23.812[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0617:11:29.180[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0617:11:34.574[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0617:11:34.576[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0617:11:40.223[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0617:11:40.224[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0617:11:45.619[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0617:11:45.619[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0617:11:51.573[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0617:11:51.574[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0617:11:57.248[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0617:11:57.249[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0618:11:02.705[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0618:11:02.705[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0618:11:08.085[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0618:11:08.086[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0618:11:13.470[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0618:11:13.470[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0618:11:18.925[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0618:11:18.925[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0618:11:24.223[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0618:11:24.225[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0618:11:29.734[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0618:11:29.735[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0618:11:35.126[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0618:11:35.127[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0618:11:40.484[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0618:11:40.485[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0618:11:45.821[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Registration****
+[ERROR]2024-11-0618:11:45.822[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0618:11:50.963[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Login****
+[ERROR]2024-11-0618:11:50.964[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:58.950[main]dsalgo_Utilities.LoggerLoad1)-portal URL: https://dsportalapp.herokuapp.com/
+[INFO ]2024-11-0622:11:59.623[main]dsalgo_Utilities.LoggerLoad1)-user can see message :Preparing for the Interviews You are at the right place
+[ERROR]2024-11-0622:11:59.626[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:07.083[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***NumpyNinja****
+[ERROR]2024-11-0622:11:07.175[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0622:11:14.901[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:20.787[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0622:11:20.789[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:27.603[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0622:11:27.604[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:37.431[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0622:11:37.433[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:44.051[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0622:11:44.053[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:52.661[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0622:11:52.662[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:58.548[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0622:11:58.549[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:03.793[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0622:11:03.795[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:09.172[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0622:11:09.172[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:14.987[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0622:11:14.989[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:20.495[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0622:11:20.496[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:26.442[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0622:11:26.444[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:32.111[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0622:11:32.112[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:37.744[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0622:11:37.747[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:43.598[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Registration****
+[ERROR]2024-11-0622:11:43.599[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0622:11:49.365[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Login****
+[ERROR]2024-11-0622:11:49.367[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:23.553[main]dsalgo_Utilities.LoggerLoad1)-portal URL: https://dsportalapp.herokuapp.com/
+[INFO ]2024-11-0710:11:24.009[main]dsalgo_Utilities.LoggerLoad1)-user can see message :Preparing for the Interviews You are at the right place
+[ERROR]2024-11-0710:11:24.009[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:29.516[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***NumpyNinja****
+[ERROR]2024-11-0710:11:29.551[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:34.700[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:39.920[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0710:11:39.921[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:46.793[main]dsalgo_Utilities.LoggerLoad1)-portal URL: https://dsportalapp.herokuapp.com/
+[INFO ]2024-11-0710:11:47.131[main]dsalgo_Utilities.LoggerLoad1)-user can see message :Preparing for the Interviews You are at the right place
+[ERROR]2024-11-0710:11:47.137[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:52.257[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***NumpyNinja****
+[ERROR]2024-11-0710:11:52.300[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:57.292[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:02.505[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0710:11:02.506[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:07.866[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0710:11:07.868[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:13.300[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0710:11:13.301[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:18.481[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0710:11:18.483[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:23.692[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0710:11:23.693[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:29.066[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0710:11:29.067[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:34.227[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0710:11:34.229[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:39.585[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0710:11:39.587[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:44.750[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0710:11:44.751[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:49.933[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0710:11:49.934[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:55.124[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0710:11:55.125[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:00.207[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0710:11:00.208[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:05.358[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0710:11:05.359[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:10.461[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Registration****
+[ERROR]2024-11-0710:11:10.464[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0710:11:15.522[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Login****
+[ERROR]2024-11-0710:11:15.524[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:29.681[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:36.670[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:43.320[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:49.884[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:56.388[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:02.593[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:08.877[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:15.263[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:22.036[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:28.425[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:35.122[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:42.162[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:48.623[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:55.030[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:01.578[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:08.024[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:14.173[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:20.643[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:26.936[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:36.796[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:43.841[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:50.230[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:56.544[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:02.836[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:09.096[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:15.551[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:21.752[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:28.624[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:35.224[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:41.749[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:48.198[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:54.617[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:01.117[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:07.560[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:13.810[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:19.977[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:25.994[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:33.226[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:19.363[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:26.044[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:32.589[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:38.880[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:45.134[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:51.516[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:57.795[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:03.993[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:10.365[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:16.943[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:23.424[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:30.008[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:36.592[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:43.328[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:49.892[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:56.203[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:04.533[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:11.172[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:17.347[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:18.984[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:25.551[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:31.890[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:38.139[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:44.386[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:51.168[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:58.449[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:05.259[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:12.117[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:18.421[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:26.727[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:33.451[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:39.881[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:47.166[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:53.780[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:00.146[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:07.206[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:13.965[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:20.147[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:27.010[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:33.611[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:39.731[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:46.116[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:52.681[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:59.038[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:05.451[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:11.735[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:22.218[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:30.794[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:37.599[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:45.451[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:54.590[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:03.851[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:10.381[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:16.613[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:24.979[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:33.928[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:40.656[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:46.958[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:56.174[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:05.171[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0710:11:11.761[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:16.460[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:20.606[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:26.956[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:35.472[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:43.149[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:50.030[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:00.859[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:09.000[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:17.530[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:25.624[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:37.756[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:45.725[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:53.201[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:00.505[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:10.344[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:18.328[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:26.615[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:34.783[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:43.490[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:53.152[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:58.554[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:07.869[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:17.759[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:24.596[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:38.364[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:45.874[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:52.476[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:08.965[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:23.970[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:31.567[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:38.218[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:53.648[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:05.812[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:14.819[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:20.476[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:32.691[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:49.071[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:58.404[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:08.075[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:22.350[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:38.797[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:46.327[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:50.749[main]dsalgo_Utilities.LoggerLoad1)-portal URL: https://dsportalapp.herokuapp.com/
+[INFO ]2024-11-0714:11:52.065[main]dsalgo_Utilities.LoggerLoad1)-user can see message :Preparing for the Interviews You are at the right place
+[ERROR]2024-11-0714:11:52.065[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:57.276[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***NumpyNinja****
+[ERROR]2024-11-0714:11:57.380[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:04.110[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:14.266[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0714:11:14.266[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:23.549[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0714:11:23.549[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:32.340[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0714:11:32.340[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:42.026[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0714:11:42.026[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:52.046[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0714:11:52.046[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:04.539[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0714:11:04.539[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:13.102[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0714:11:13.102[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:28.800[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0714:11:28.810[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:43.834[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0714:11:43.834[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:52.230[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0714:11:52.230[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:03.961[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0714:11:03.961[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:17.636[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0714:11:17.636[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:25.896[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0714:11:25.904[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:35.620[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Registration****
+[ERROR]2024-11-0714:11:35.628[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0714:11:49.184[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Login****
+[ERROR]2024-11-0714:11:49.184[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:05.045[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:19.010[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:40.153[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:51.837[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:02.838[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:16.019[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:29.506[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:42.528[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:59.965[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:32.080[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:50.526[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:08.188[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:28.171[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:04.852[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:30.002[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:26.738[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:39.649[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:57.068[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0714:11:11.129[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:36.212[TestNG-PoolService-7]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:36.212[TestNG-PoolService-2]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:36.212[TestNG-PoolService-3]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:36.212[TestNG-PoolService-1]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:36.212[TestNG-PoolService-8]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:36.212[TestNG-PoolService-4]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:36.212[TestNG-PoolService-6]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:36.212[TestNG-PoolService-10]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:05.322[TestNG-PoolService-10]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0715:11:05.339[TestNG-PoolService-10]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:07.981[TestNG-PoolService-7]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0715:11:08.021[TestNG-PoolService-7]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:08.069[TestNG-PoolService-6]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0715:11:08.077[TestNG-PoolService-6]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:09.964[TestNG-PoolService-1]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Login****
+[ERROR]2024-11-0715:11:09.964[TestNG-PoolService-1]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:10.012[TestNG-PoolService-3]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Registration****
+[ERROR]2024-11-0715:11:10.020[TestNG-PoolService-3]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:11.646[TestNG-PoolService-9]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0715:11:11.661[TestNG-PoolService-9]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:11.661[TestNG-PoolService-5]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0715:11:11.661[TestNG-PoolService-5]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:12.393[TestNG-PoolService-4]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0715:11:12.401[TestNG-PoolService-4]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:13.708[TestNG-PoolService-2]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0715:11:13.708[TestNG-PoolService-2]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:11.609[TestNG-PoolService-8]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:14.902[TestNG-PoolService-1]dsalgo_Utilities.LoggerLoad1)-portal URL: https://dsportalapp.herokuapp.com/
+[INFO ]2024-11-0715:11:14.902[TestNG-PoolService-10]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[INFO ]2024-11-0715:11:14.902[TestNG-PoolService-9]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[INFO ]2024-11-0715:11:14.902[TestNG-PoolService-7]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0715:11:14.924[TestNG-PoolService-10]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:14.902[TestNG-PoolService-3]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:14.939[TestNG-PoolService-7]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:14.939[TestNG-PoolService-9]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:17.756[TestNG-PoolService-6]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0715:11:17.756[TestNG-PoolService-6]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:18.605[TestNG-PoolService-2]dsalgo_Utilities.LoggerLoad1)-user can see the title :***NumpyNinja****
+[ERROR]2024-11-0715:11:18.705[TestNG-PoolService-2]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:18.810[TestNG-PoolService-8]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0715:11:18.810[TestNG-PoolService-8]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:28.850[TestNG-PoolService-5]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:46.684[TestNG-PoolService-3]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0715:11:46.692[TestNG-PoolService-3]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:51.971[TestNG-PoolService-4]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0715:11:51.988[TestNG-PoolService-4]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:54.134[TestNG-PoolService-1]dsalgo_Utilities.LoggerLoad1)-user can see message :Preparing for the Interviews You are at the right place
+[ERROR]2024-11-0715:11:54.134[TestNG-PoolService-1]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:55.427[TestNG-PoolService-2]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0715:11:55.443[TestNG-PoolService-2]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:58.320[TestNG-PoolService-6]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0715:11:58.400[TestNG-PoolService-6]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:02.446[TestNG-PoolService-7]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0715:11:02.452[TestNG-PoolService-7]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:19.860[TestNG-PoolService-8]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:25.110[TestNG-PoolService-9]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0715:11:27.939[TestNG-PoolService-10]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0715:11:34.038[TestNG-PoolService-3]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Login****
+[ERROR]2024-11-0715:11:34.040[TestNG-PoolService-3]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:03.240[TestNG-PoolService-1]dsalgo_Utilities.LoggerLoad1)-portal URL: https://dsportalapp.herokuapp.com/
+[INFO ]2024-11-0716:11:05.081[TestNG-PoolService-10]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:05.089[TestNG-PoolService-10]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:07.520[TestNG-PoolService-7]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:07.528[TestNG-PoolService-7]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:08.372[TestNG-PoolService-3]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:11.775[TestNG-PoolService-5]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:11.793[TestNG-PoolService-5]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:13.232[TestNG-PoolService-2]dsalgo_Utilities.LoggerLoad1)-user can see the title :***NumpyNinja****
+[INFO ]2024-11-0716:11:13.245[TestNG-PoolService-4]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:13.248[TestNG-PoolService-4]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:13.304[TestNG-PoolService-2]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:13.312[TestNG-PoolService-6]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:13.312[TestNG-PoolService-6]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:14.898[TestNG-PoolService-1]dsalgo_Utilities.LoggerLoad1)-user can see message :Preparing for the Interviews You are at the right place
+[ERROR]2024-11-0716:11:14.912[TestNG-PoolService-1]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:15.817[TestNG-PoolService-9]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:15.825[TestNG-PoolService-9]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:06.089[TestNG-PoolService-1]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:06.097[TestNG-PoolService-1]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:08.445[TestNG-PoolService-6]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:08.451[TestNG-PoolService-6]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:08.531[TestNG-PoolService-2]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:08.531[TestNG-PoolService-2]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:08.612[TestNG-PoolService-9]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:08.612[TestNG-PoolService-9]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:23.810[TestNG-PoolService-7]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:23.826[TestNG-PoolService-7]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:23.861[TestNG-PoolService-4]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:23.861[TestNG-PoolService-4]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:24.860[TestNG-PoolService-3]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Login****
+[ERROR]2024-11-0716:11:24.860[TestNG-PoolService-3]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:25.719[TestNG-PoolService-10]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Registration****
+[ERROR]2024-11-0716:11:25.723[TestNG-PoolService-10]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:14.835[TestNG-PoolService-8]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:15.799[TestNG-PoolService-1]dsalgo_Utilities.LoggerLoad1)-portal URL: https://dsportalapp.herokuapp.com/
+[INFO ]2024-11-0716:11:17.265[TestNG-PoolService-1]dsalgo_Utilities.LoggerLoad1)-user can see message :Preparing for the Interviews You are at the right place
+[ERROR]2024-11-0716:11:17.267[TestNG-PoolService-1]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:19.314[TestNG-PoolService-5]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[INFO ]2024-11-0716:11:19.314[TestNG-PoolService-6]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:19.330[TestNG-PoolService-5]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:19.330[TestNG-PoolService-6]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:19.456[TestNG-PoolService-10]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:19.456[TestNG-PoolService-10]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:19.584[TestNG-PoolService-3]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:20.196[TestNG-PoolService-4]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:20.196[TestNG-PoolService-4]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:20.322[TestNG-PoolService-2]dsalgo_Utilities.LoggerLoad1)-user can see the title :***NumpyNinja****
+[INFO ]2024-11-0716:11:20.385[TestNG-PoolService-7]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:20.385[TestNG-PoolService-7]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:20.432[TestNG-PoolService-2]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:20.966[TestNG-PoolService-9]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:20.981[TestNG-PoolService-9]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:21.303[TestNG-PoolService-8]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:21.306[TestNG-PoolService-8]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:29.359[TestNG-PoolService-6]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:29.362[TestNG-PoolService-6]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:31.797[TestNG-PoolService-5]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:31.798[TestNG-PoolService-5]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:32.032[TestNG-PoolService-10]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:32.034[TestNG-PoolService-10]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:32.647[TestNG-PoolService-2]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Login****
+[ERROR]2024-11-0716:11:32.648[TestNG-PoolService-2]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:33.524[TestNG-PoolService-7]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Registration****
+[ERROR]2024-11-0716:11:33.525[TestNG-PoolService-7]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:34.681[TestNG-PoolService-3]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:34.681[TestNG-PoolService-3]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:11.334[main]dsalgo_Utilities.LoggerLoad1)-portal URL: https://dsportalapp.herokuapp.com/
+[INFO ]2024-11-0716:11:11.632[main]dsalgo_Utilities.LoggerLoad1)-user can see message :Preparing for the Interviews You are at the right place
+[ERROR]2024-11-0716:11:11.634[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:16.256[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***NumpyNinja****
+[ERROR]2024-11-0716:11:16.274[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:20.708[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:25.373[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:25.375[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:26.202[TestNG-PoolService-1]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:30.023[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:30.024[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:32.871[TestNG-PoolService-4]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:34.764[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:34.765[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:39.991[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:39.993[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:44.698[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:44.700[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:49.315[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:49.315[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:54.065[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:54.066[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:58.735[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:58.736[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:03.256[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:03.257[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:07.770[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:07.774[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:12.517[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:12.517[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:16.995[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:16.995[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:21.531[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:21.532[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:26.109[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Registration****
+[ERROR]2024-11-0716:11:26.110[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:30.628[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Login****
+[ERROR]2024-11-0716:11:30.629[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:17.607[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:24.436[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:31.231[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:37.858[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:44.518[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:51.318[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:58.612[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:05.804[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:12.795[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:19.533[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:28.564[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:35.749[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:42.659[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:49.677[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:55.856[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:01.535[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:07.606[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:13.210[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:18.960[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:24.921[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:30.625[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:35.864[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:41.501[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:47.110[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:52.744[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:58.189[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:03.590[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:12.402[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:19.228[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:24.852[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:30.430[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:37.545[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:45.107[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:50.674[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:56.513[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:03.214[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:09.729[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:15.383[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:20.934[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:28.090[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:35.142[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:40.737[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:44.647[main]dsalgo_Utilities.LoggerLoad1)-portal URL: https://dsportalapp.herokuapp.com/
+[INFO ]2024-11-0716:11:44.909[main]dsalgo_Utilities.LoggerLoad1)-user can see message :Preparing for the Interviews You are at the right place
+[ERROR]2024-11-0716:11:44.909[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:49.428[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***NumpyNinja****
+[ERROR]2024-11-0716:11:49.449[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0716:11:53.791[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0716:11:58.353[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0716:11:58.353[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0717:11:02.927[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0717:11:02.928[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0717:11:07.542[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0717:11:07.543[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0717:11:12.079[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0717:11:12.080[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0717:11:16.791[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0717:11:16.791[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0717:11:21.432[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0717:11:21.433[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0717:11:25.937[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0717:11:25.938[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0717:11:30.618[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0717:11:30.619[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0717:11:35.174[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0717:11:35.175[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0717:11:39.651[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0717:11:39.651[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0717:11:44.231[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0717:11:44.231[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0717:11:48.756[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0717:11:48.757[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0717:11:53.253[main]dsalgo_Utilities.LoggerLoad1)-Actul message: You are not logged in
+[ERROR]2024-11-0717:11:53.254[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0717:11:57.749[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Registration****
+[ERROR]2024-11-0717:11:57.749[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[INFO ]2024-11-0717:11:02.185[main]dsalgo_Utilities.LoggerLoad1)-user can see the title :***Login****
+[ERROR]2024-11-0717:11:02.186[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:07.820[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:13.481[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:19.791[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:26.727[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:32.992[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:39.869[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:46.686[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:53.584[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:00.526[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:07.021[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:13.670[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:20.601[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:27.266[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:34.299[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:40.677[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:47.926[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:54.888[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:01.625[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
+[ERROR]2024-11-0717:11:07.999[main]dsalgo_Utilities.LoggerLoad1)-Scenario is Failed and taking Screenshot
